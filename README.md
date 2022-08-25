@@ -1,4 +1,11 @@
 # Tactical OSINT Academy PGP Key
+
+<br>
+
+![Proton Mail – Curve Cryptography](https://user-images.githubusercontent.com/104733166/186699256-31072f6a-08a3-4b9c-b200-840f6387ca1c.jpg)
+
+<br>
+
 ## Fingerprint: 6A3D 4C44 3CDE D0C4 8955  BD05 7168 FAFD BECC BF3
 ### Encrypting Communications for added security
 
